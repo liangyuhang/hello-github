@@ -1,7 +1,3 @@
 # hello-github
 
 #1
-
-#2
-
-#3
